@@ -1,2 +1,3 @@
-# SimplePyhtonAPIDockerKubernetes
-Simple Pyhton API Docker/Kubernetes
+# References
+
+https://kubernetes.io/blog/2019/07/23/get-started-with-kubernetes-using-python/
